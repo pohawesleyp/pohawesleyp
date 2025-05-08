@@ -136,4 +136,4 @@ alt="Github Status"
 title="Github Status"
 height="200"
 style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pohawesleyp&theme=tokyonight&custom_tittle=Tecnologias&langs_count=9" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pohawesleyp&theme=tokyonight&custom_tittle=Tecnologias&langs_count=12" />
